@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/kdi-noce/Documents/cursus42_1/exam/42_rank_03",
+      "program": "/Users/kdi-noce/Documents/cursus42_1/exam/42_rank_03/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
